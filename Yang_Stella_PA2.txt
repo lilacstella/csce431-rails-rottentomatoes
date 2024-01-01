@@ -1,1 +1,1 @@
-https://young-spire-85788-8ad8e0f40454.herokuapp.com/movies
+[link to deployed app on Heroku](https://young-spire-85788-8ad8e0f40454.herokuapp.com/movies)
